@@ -2,6 +2,8 @@
 
 Classic Tetris game implemented in vanilla JavaScript.
 
+**Play online:** https://bborbe.github.io/tetrics/
+
 ## Features
 
 - Standard 7 tetromino pieces (I, O, T, S, Z, J, L)
